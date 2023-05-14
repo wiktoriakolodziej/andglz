@@ -6,5 +6,6 @@ void main()
     std::cout << "Hello Wika!\n";
     Animal niuniak("cat");
     niuniak.reachOut();
+    niuniak.changeSpecies("dog");
 }
 
